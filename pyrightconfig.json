@@ -1,0 +1,17 @@
+{
+  "typeCheckingMode": "basic",
+  "pythonVersion": "3.12",
+  "stubPath": "typings",
+  "venvPath": ".",
+  "reportMissingModuleSource": "none",
+  "reportMissingTypeStubs": "none",
+  "reportUnknownMemberType": "none",
+  "reportUnknownVariableType": "none",
+  "reportUnknownArgumentType": "none",
+  "reportAttributeAccessIssue": "warning",
+  "exclude": [
+    "**/generate.py",
+    "**/*.elf",
+    "**/*.so"
+  ]
+}
